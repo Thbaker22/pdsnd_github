@@ -7,7 +7,8 @@ File created 13/07/2022
 bikeshare
 
 ### Description
-The project takes bikeshare infomation from 3 cities and answers questions about that information
+The project takes bikeshare infomation from 3 cities and answers questions about that information.
+The citys are chicago ,new york city, and washington
 
 ### Files used
 Files used are:
