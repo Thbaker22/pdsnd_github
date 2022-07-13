@@ -10,8 +10,12 @@ bikeshare
 The project takes bikeshare infomation from 3 cities and answers questions about that information
 
 ### Files used
-Include the files used
+Files used are:
+bikeshare.py
+chicago.csv
+new_yor_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All file used are from the Udacity python course
 
