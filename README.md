@@ -8,7 +8,8 @@ bikeshare
 
 ### Description
 The project takes bikeshare infomation from 3 cities and answers questions about that information.
-The citys are chicago ,new york city, and washington
+The citys are chicago ,new york city, and washington.
+The program is filterable by month and day of the week.
 
 ### Files used
 Files used are:
